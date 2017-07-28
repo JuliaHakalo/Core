@@ -1,0 +1,5 @@
+Frosia 5
+Gloria 4
+Najda 7
+Aa 44 MALEhas animal: Tit 4
+Aa 12 MALEhas animal: Tit 2
